@@ -9,4 +9,4 @@
 # Methodology
 For customer segmentation, a K-means clustering algorithm was performed.
 For sales forecasting, logistric regression and time series forecasting (SARIMA models) was conducted.
-For basket analysis, 
+Also performed basket analysis to eventually identofy product affinity.
