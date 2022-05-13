@@ -10,3 +10,6 @@
 For customer segmentation, a K-means clustering algorithm was performed.
 For sales forecasting, logistric regression and time series forecasting (SARIMA models) was conducted.
 Also performed basket analysis to eventually identofy product affinity.
+
+
+![My Remote Image](https://www.textmaster.com/blog/wp-content/uploads/2019/10/5-tendances-retail-2020-2.jpg)
