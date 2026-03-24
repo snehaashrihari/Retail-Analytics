@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  analytics-pipeline:
+    build: .
+    container_name: retail_analytics_container
+    volumes:
+      - ./data:/app/data
+    environment:
+      - LOG_LEVEL=INFO
+    restart: "no"

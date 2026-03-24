@@ -1,4 +1,4 @@
-transaction_id,cust_id,tran_date,prod_subcat_code,prod_cat_code,Qty,Rate,Tax,total_amt,Store_type
+transaction_id,customer_Id,tran_date,prod_sub_cat_code,prod_cat_code,Qty,Rate,Tax,total_amt,Store_type
 80712190438,270351,28-02-2014,1,1,-5,-772,405.3,-4265.3,e-Shop
 29258453508,270384,27-02-2014,5,3,-5,-1497,785.925,-8270.925,e-Shop
 51750724947,273420,24-02-2014,6,5,-2,-791,166.11,-1748.11,TeleShop
